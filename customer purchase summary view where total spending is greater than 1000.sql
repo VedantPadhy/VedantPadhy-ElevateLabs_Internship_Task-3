@@ -1,0 +1,1 @@
+select * from customer_purchase_summary_1 where total_spent>1000;
