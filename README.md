@@ -46,3 +46,4 @@ Structured Query Language (SQL)
 
 Outcome
 This project demonstrates practical SQL techniques for data analysis, reporting, and performance tuning—essential for any backend, analytics, or data-driven application work.
+YOU CAN CHECK THE WHOLE WORKING IN THE PDF FILE SAVED AS TASK_3_OUTPUT_SCREENSHOTS_ELEVATE_LABS.pdf and can check the datasets being used which are stored as csv files in the repository.
